@@ -48,19 +48,19 @@
 
 
 <p align="center">
-- [Material-UI](https://material-ui.com)
+- [Material-UI](https://www.material-ui.com)
 </p>
 <p align="center">
-- [Babel/core](https://babeljs.io/docs/en/configuration)
+- [Babel/core](https://www.babeljs.io/docs/en/configuration)
 </p>
 <p align="center">
-- [React 16](https://reactjs.org)
+- [React 16](https://www.reactjs.org)
 </p>
 <p align="center">
-- [Webpack 4](https://webpack.js.org)
+- [Webpack 4](https://www.webpack.js.org)
 </p>
 <p align="center">
-- [Hot Module Replacement](https://webpack.js.org/concepts/hot-module-replacement/#root)
+- [Hot Module Replacement](https://www.webpack.js.org/concepts/hot-module-replacement)
 </p>
 
 
@@ -120,4 +120,4 @@ The following tools are recommended for a React project. Also you will find incl
   - [ESLint-loader](https://webpack.js.org/loaders/eslint-loader)
   - [CSS-Tricks](https://css-tricks.com/building-a-complex-ui-animation-in-react-simply)
   - [Webpack CSS-loaders](https://webpack.js.org/loaders/css-loader/)
-  - [SVG-React-Webpack](https://www pluralsightcomguides-how-to-load-svg-with-react-and-webpack)
+  - [SVG-React-Webpack](https://www.pluralsightcomguides-how-to-load-svg-with-react-and-webpack)
