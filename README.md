@@ -48,16 +48,16 @@
 
 
 <p align="center">
-- [Material-UI](https://www.material-ui.com)
+- [Material-UI](https://material-ui.com)
 </p>
 <p align="center">
-- [Babel/core](https://www.babeljs.io/docs/en/configuration)
+- [Babel/core](https://www.npmjs.com/package/@babel/core)
 </p>
 <p align="center">
-- [React 16](https://www.reactjs.org)
+- [Reactjs -16](https://reactjs.org)
 </p>
 <p align="center">
-- [Webpack 4](https://www.webpack.js.org)
+- [Webpack -4](https://webpack.js.org)
 </p>
 <p align="center">
 - [Hot Module Replacement](https://www.webpack.js.org/concepts/hot-module-replacement)
@@ -74,7 +74,7 @@
 
 The following tools are recommended for a React project. Also you will find included below some links for building some complex UI animations and conversion of SVG image into Data URL with the help of Webpack loader.
    
--  [Material-UI](https://material-ui.com) UI and components library.
+- [Material-UI](https://material-ui.com) UI and components library.
 - [ESLint-loader](https://webpack.js.org/loaders/eslint-loader), When using with transpiling loaders(like babel-loader),make sure they are in correct order(bottom to top). Otherwise files will be checked after being processed by babel-loader.
 - [CSS-Tricks](https://css-tricks.com/building-a-complex-ui-animation-in-react-simply), For building complex UI animations in React.
 - [Webpack CSS-loaders](https://webpack.js.org/loaders/css-loader/) interprets @import and url() like import/require() and will resolve them.
