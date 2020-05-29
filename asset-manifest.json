@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-google-sticky-notes/static/js/main.ee66ddf4.chunk.js",
+    "main.js.map": "/react-google-sticky-notes/static/js/main.ee66ddf4.chunk.js.map",
+    "runtime-main.js": "/react-google-sticky-notes/static/js/runtime-main.d698e855.js",
+    "runtime-main.js.map": "/react-google-sticky-notes/static/js/runtime-main.d698e855.js.map",
+    "static/js/2.072feeda.chunk.js": "/react-google-sticky-notes/static/js/2.072feeda.chunk.js",
+    "static/js/2.072feeda.chunk.js.map": "/react-google-sticky-notes/static/js/2.072feeda.chunk.js.map",
+    "index.html": "/react-google-sticky-notes/index.html",
+    "precache-manifest.389150ca63a76d76dd94a643bb3c3855.js": "/react-google-sticky-notes/precache-manifest.389150ca63a76d76dd94a643bb3c3855.js",
+    "service-worker.js": "/react-google-sticky-notes/service-worker.js",
+    "static/js/2.072feeda.chunk.js.LICENSE.txt": "/react-google-sticky-notes/static/js/2.072feeda.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d698e855.js",
+    "static/js/2.072feeda.chunk.js",
+    "static/js/main.ee66ddf4.chunk.js"
+  ]
+}
