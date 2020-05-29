@@ -24,12 +24,12 @@
 
 
     Here's A Brief Look @ The Application(Gif of React Sticky Notes).
-    Or check out a live demo of the project here http://react-google-sticky-notes.surge.sh/
+    
    
    ![StickyNotes.gif](assets/StickyNotes.gif)
     
 
-
+    Or check out a live demo of the project here http://react-google-sticky-notes.surge.sh/
     - - - - - -
 
 
