@@ -17,7 +17,9 @@
    <p align="center">
 <h3>I Incorporated External Plugins</h3>
     that are being used and rendered with some of the applications's components.
-    React allows you to interface with other libraries and frameworks. For example,I incorporated [Material-UI](https://material-ui.com) a remarkable components library to convert the <textarea>’s value in real time in this application along with some icons aswell.
+    React allows you to interface with other libraries and frameworks. For example,I incorporated 
+    [Material-UI](https://material-ui.com) a remarkable components library to convert the <textarea>’s value 
+    in real time in this application along with some icons aswell.
   </p>
 
 
@@ -48,19 +50,19 @@
 
 
 <p align="center">
--[Material-UI](https://material-ui.com)
+-[Material-UI]
 
 <p align="center">
--[Babel/core](https://www.npmjs.com/package/@babel/core)
+-[Babel/core]
 
 <p align="center">
--[Reactjs -16](https://reactjs.org)
+-[Reactjs -16]
 
 <p align="center">
--[Webpack -4](https://webpack.js.org)
+-[Webpack -4]
 
 <p align="center">
--[Hot Module Replacement](https://www.webpack.js.org/concepts/hot-module-replacement)
+-[Hot Module Replacement]
 </p>
 
 
