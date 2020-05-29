@@ -49,16 +49,16 @@
 
 <p align="center">
 * [Material-UI](https://material-ui.com)
-</p>
+
 <p align="center">
 * [Babel/core](https://www.npmjs.com/package/@babel/core)
-</p>
+
 <p align="center">
 * [Reactjs -16](https://reactjs.org)
-</p>
+
 <p align="center">
 * [Webpack -4](https://webpack.js.org)
-</p>
+
 <p align="center">
 * [Hot Module Replacement](https://www.webpack.js.org/concepts/hot-module-replacement)
 </p>
