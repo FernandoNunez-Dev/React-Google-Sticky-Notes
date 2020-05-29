@@ -30,7 +30,7 @@
     
 
     Or check out a live demo of the project here http://react-google-sticky-notes.surge.sh/
-    - - - - - -
+    
 
 
     ```
