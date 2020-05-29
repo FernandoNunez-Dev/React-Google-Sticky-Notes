@@ -29,21 +29,24 @@
    ![StickyNotes.gif](assets/StickyNotes.gif)
     
 
+    
+    
+    
+    
     Or check out a live demo of the project here http://react-google-sticky-notes.surge.sh/
     
 
 
-    ```
     Building Encapsulated Components That 
-    ```
-    ```
+    
+    
     Manage Their Own State, Then Composing 
-    ```
-    ```
+    
+    
     Them To Make Complex UIs.
-    ```
+   
 
-    - - - - - - - - - - -
+    
 
 
 
