@@ -18,9 +18,9 @@
 <h3>I Incorporated External Plugins</h3>
     that are being used and rendered with some of the applications's components.
     React allows you to interface with other libraries and frameworks. For example,I incorporated 
-    [Material-UI](https://material-ui.com) a remarkable components library to convert the <textarea>’s value 
+    [Material-UI] a remarkable components library to convert the <textarea>’s value 
     in real time in this application along with some icons aswell.
-  </p>
+  
 
 
     Here's A Brief Look @ The Application(Gif of React Sticky Notes).
