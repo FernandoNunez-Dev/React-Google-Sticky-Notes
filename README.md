@@ -48,19 +48,19 @@
 
 
 <p align="center">
-* [Material-UI](https://material-ui.com)
+* ![Material-UI](https://material-ui.com)
 
 <p align="center">
-* [Babel/core](https://www.npmjs.com/package/@babel/core)
+* ![Babel/core](https://www.npmjs.com/package/@babel/core)
 
 <p align="center">
-* [Reactjs -16](https://reactjs.org)
+* ![Reactjs -16](https://reactjs.org)
 
 <p align="center">
-* [Webpack -4](https://webpack.js.org)
+* ![Webpack -4](https://webpack.js.org)
 
 <p align="center">
-* [Hot Module Replacement](https://www.webpack.js.org/concepts/hot-module-replacement)
+* ![Hot Module Replacement](https://www.webpack.js.org/concepts/hot-module-replacement)
 </p>
 
 
